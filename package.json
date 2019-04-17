@@ -1,11 +1,15 @@
 {
-  "name": "@aweb-lib/aweb-queue",
+  "name": "aweb-queue",
   "version": "6.0.1",
   "description": "AWEB 自定义队列模块",
   "main": "queue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Xuans/aweb-queue.git"
+	},
   "author": "lijiancheng@agree.com.cn",
   "license": "MIT"
 }
